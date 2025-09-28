@@ -1,5 +1,5 @@
 # Telephone Directory 
-## Course:Data Structures Project
+## Course:Data Structures 
 
 ## 📌 Overview
 
